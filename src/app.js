@@ -6,6 +6,7 @@ var alturaCampo = 500;
 var larguraLinha = 10;
 var larguraBola = 10;
 var alturaRaquete = 100;
+var posicaoBolaX = posicaoBolaY = 10;
         
 areaDesenho.fillStyle = '#286047';
         
@@ -26,3 +27,4 @@ areaDesenho.fillRect(larguraCampo - larguraLinha, 330, larguraLinha, alturaRaque
 //Bola "quadrada"
 areaDesenho.fillRect(30, 30, larguraBola, larguraBola);
 
+//Animação
