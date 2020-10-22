@@ -90,7 +90,7 @@ function executar(){
             posicaoBolaX = larguraCampo / 2;
             posicaoBolaY = alturaCampo / 2;
             velocidadeBolaPosicaoX = -velocidadeBolaPosicaoX;
-            velocidadeBolaPosicaoY = 3;
+            velocidadeBolaPosicaoy = 3;
         }
     }
 
