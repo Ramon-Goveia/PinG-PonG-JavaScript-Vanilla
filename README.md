@@ -6,3 +6,5 @@ Tecnologias:
 
  - javascript-vanilla
  - Html 5 - Canvas
+
+![IMG](https://github.com/Ramon-Goveia/PinG-PonG-JavaScript-Vanilla/blob/master/ping-pong-js.png)
