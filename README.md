@@ -1,2 +1,5 @@
 # PinG-PonG-JavaScript-Vanilla
-Jogo ping-pong javascript-vanilla
+
+Aplicação web ping-pong 
+
+javascript-vanilla
